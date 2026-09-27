@@ -1,0 +1,3 @@
+uvicorn.log
+.uvicorn.pid
+__pycache__/

@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/BatchesPanel.tsx","./src/components/GenerationForm.tsx","./src/components/JobProgress.tsx","./src/components/SamplesPanel.tsx","./src/components/SchemaPanel.tsx"],"version":"5.9.3"}
