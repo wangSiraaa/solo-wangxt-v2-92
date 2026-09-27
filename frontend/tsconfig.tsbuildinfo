@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/components/BatchDetail.tsx","./src/components/BatchList.tsx","./src/components/ConstraintChecks.tsx","./src/components/ErrorBox.tsx","./src/components/GeneratePanel.tsx","./src/components/ProgressPanel.tsx","./src/components/SampleData.tsx","./src/components/SchemaPanel.tsx"],"version":"5.9.3"}

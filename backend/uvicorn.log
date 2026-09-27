@@ -1,0 +1,19 @@
+INFO:     Started server process [1011]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:58264 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58276 - "POST /api/batches HTTP/1.1" 201 Created
+INFO:     127.0.0.1:58292 - "GET /api/batches/batch-20260927110243-3adf0ff8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58296 - "GET /api/batches/batch-20260927110243-3adf0ff8/rows/orders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52772 - "GET /api/batches HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52776 - "DELETE /api/batches/v42-3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35566 - "GET /api/batches HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36114 - "POST /api/batches HTTP/1.1" 201 Created
+INFO:     127.0.0.1:36116 - "GET /api/batches/batch-20260927110453-7772db36 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36128 - "GET /api/batches/batch-20260927110453-7772db36 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36130 - "GET /api/batches/batch-20260927110453-7772db36 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36140 - "GET /api/batches/batch-20260927110453-7772db36/rows/customers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36150 - "GET /api/batches/batch-20260927110453-7772db36/rows/orders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36164 - "GET /api/batches/batch-20260927110453-7772db36/rows/customers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52454 - "GET /api/schema HTTP/1.1" 200 OK

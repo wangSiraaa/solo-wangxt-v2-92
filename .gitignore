@@ -23,3 +23,7 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# User-authorized review packaging revision: transient local runtime state.
+miniforge3/
+pgdata/
